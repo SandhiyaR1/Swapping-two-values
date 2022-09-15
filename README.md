@@ -18,8 +18,18 @@ Print both the values it would be interchanged
 ### Step 6: 
 End the program
 ## PROGRAM:
-
-
+```python
+Swapping-two-variables
+Develeped by:sandhiya R
+ Registration: 22001197
+n1,n2=int(input()),int(input())
+temp=n2
+n2=n1
+n1=temp
+print("Swapped values are:",n1,n2)
+```
+## output 
+![output](/output%20swap.png)
 
 ## RESULT:
 Thus the swapping of two values are successfully executed
